@@ -5,5 +5,5 @@ Desenvolvido como exercício de lógica, módulos em C e interação via termina
 
 ## 🚀 Tecnologias  
 - Linguagem: C  
-- Compilador: gcc (ou equivalente)  
+- Compilador: gcc   
 - Ambiente: terminal / console  
